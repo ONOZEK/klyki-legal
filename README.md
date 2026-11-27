@@ -1,2 +1,2 @@
-# SwiftFix 
-Official privacy policy and terms of service for SwiftFix by ONOZEK.
+# Klyki 
+Official privacy policy and terms of service for Klyki by ONOZEK.
