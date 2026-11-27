@@ -116,5 +116,4 @@ If you have questions about these Terms of Service or licensing, contact:
 - **Developer:** ONOZEK
 - **Email:** [onozek@gmail.com](mailto:onozek@gmail.com)
 
- ___
-© 2026 ONOZEK. All rights reserved.
+ © 2026 ONOZEK. All rights reserved.
