@@ -114,6 +114,8 @@ We may update these Terms of Service from time to time as Klyki evolves. Any upd
 If you have questions about these Terms of Service or licensing, contact:
 
 - **Developer:** ONOZEK
-- **Email:** [onozek@gmail.com](mailto:onozek@gmail.com)
+- **Contact email:** [onozek@gmail.com](mailto:onozek@gmail.com)
+
+---
 
 © 2026 ONOZEK. All rights reserved.
