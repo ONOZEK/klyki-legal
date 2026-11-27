@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective date:** November 27, 2026  
-**App:** Klyki (Klyki Keyboard)  
+**App:** Klyki  
 **Package ID:** `com.onozek.klyki`  
 **Developer:** ONOZEK  
 **Contact:** [onozek@gmail.com](mailto:onozek@gmail.com)
@@ -10,13 +10,13 @@
 
 ## 1. Introduction
 
-**Klyki** ("Klyki Keyboard") is a privacy-first AI-powered Android keyboard application developed by **ONOZEK**. It helps you fix grammar, adjust tone, translate, summarize, and run custom AI commands directly from the keyboard command bar while typing across apps.
+**Klyki** is a privacy-first AI-powered Android keyboard application developed by **ONOZEK**. It helps you fix grammar, adjust tone, translate, summarize, and run custom AI commands directly from the keyboard command bar while typing across apps.
 
 Your privacy matters. This Privacy Policy explains what information Klyki accesses on your device, when data is transmitted to third-party services, and what rights and controls you have.
 
 ---
 
-## 2. How Klyki Keyboard Works (Zero-Keystroke-Logging)
+## 2. How Klyki Works (Zero-Keystroke-Logging)
 
 Klyki operates as a standard Android keyboard (**Input Method Service**), not an Accessibility Service, and **never logs, tracks, records, or transmits your keystrokes or typing history**.
 
@@ -111,4 +111,4 @@ Because your commands, themes, API keys, clipboard clips, and dictionary words l
 
 ## 11. Changes to This Policy
 
-We may update this Privacy Policy as Klyki evolves. Any updates will be published at [`https://onozek.github.io/klyki-legal/privacy-policy`](https://onozek.github.io/klyki-legal/privacy-policy) with an updated effective date.© 2026 ONOZEK. All rights reserved.
+We may update this Privacy Policy as Klyki evolves. Any updates will be published at [`https://onozek.github.io/klyki-legal/privacy-policy`](https://onozek.github.io/klyki-legal/privacy-policy) with an updated effective date.
